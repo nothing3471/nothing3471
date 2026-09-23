@@ -9,6 +9,14 @@ to export.
 
 ### Out now
 
+**[reddit-archive-doctor](https://github.com/nothing3471/reddit-archive-doctor)** — an
+archive of saved Reddit media rots from the inside: hosts swap deleted images for a
+placeholder your downloader files as the real thing, error pages get saved as GIFs,
+videos lose their soundtrack. This reads an archive and says what is dead, what is
+broken, and which missing saves are still worth chasing and where, using the recovery
+rates from reddit-link-rot. It changes nothing and never talks to Reddit, which
+matters now that Reddit has closed its API to most new applicants.
+
 **[lookalikes](https://github.com/nothing3471/lookalikes)** — burst shots and
 near-identical frames end up scattered through a photo folder. This moves each group
 into one review folder, renamed so it sorts together in any file browser; delete the
