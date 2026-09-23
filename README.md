@@ -9,6 +9,14 @@ to export.
 
 ### Out now
 
+**[lookalikes](https://github.com/nothing3471/lookalikes)** — burst shots and
+near-identical frames end up scattered through a photo folder. This moves each group
+into one review folder, renamed so it sorts together in any file browser; delete the
+frames you do not want and undo sends the keepers home. It never deletes anything
+itself, RAW files travel with their JPEG, and every move is logged. It breaks the
+rule above — PyTorch and an 88 MB model — because the lightweight way, perceptual
+hashing, missed 777 burst pairs in one folder of 3,919 photos.
+
 **[reddit-link-rot](https://github.com/nothing3471/reddit-link-rot)** — I archived
 33,716 saved Reddit posts and 10,326 of them pointed at media that no longer loads.
 So I measured how much was actually recoverable, ran the recovery, and scored the
